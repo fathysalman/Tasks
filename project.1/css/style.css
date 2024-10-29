@@ -55,6 +55,29 @@
     left: 120%;
   }
 
+
+  .contact-info {
+    display: flex;
+    align-items: center;
+  }
+  .social-icons i {
+    margin-right: 10px;
+    font-size: 10px;
+    color: white;
+  }
+  .contact-info i {
+    margin-right: 10px;
+  }
+  .vertical-line {
+    border-left: 1px solid white;
+    height: 20px;
+    margin: 0 15px;
+  }
+
+  .bg-custom {
+    background-color: #007bff;
+  }
+
 .alert
 {
 
